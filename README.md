@@ -1,2 +1,3 @@
 # ProyectoTurismo
-Proyecto academico de la asignatura Base de datos - Ciencias Computacionales, realizado en el lenguaje de programaciónJava 
+Proyecto academico de la asignatura Base de datos, realizado en el lenguaje de programación Java.
+- Ciencias Computacionales
